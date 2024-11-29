@@ -1,5 +1,9 @@
 # surreal-number-resources
 
+## Preparation
+
+- [Nim](http://benpyle.com/nim/) 
+
 ## Hackenbush
 
 - [YouTube walkthrough](https://www.youtube.com/watch?v=ZYj4NkeGPdM&t=843s)
