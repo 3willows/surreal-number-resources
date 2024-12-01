@@ -2,7 +2,9 @@
 
 ## Preparation
 
-- [Nim](http://benpyle.com/nim/) 
+- [Nim](http://benpyle.com/nim/)
+- [Natural number world
+](https://github.com/ReallyLiri/lean-natural-number-game-solutions/tree/main)
 
 ## Hackenbush
 
